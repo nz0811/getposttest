@@ -57,7 +57,7 @@ public class HelloController {
         return map;
     }
 
-    @RequestMapping("/test4")
+    @RequestMapping("/test54")
     @ResponseBody
     public Map test4(@RequestBody TestBean testBean, String abc) throws IOException {
         Map<String,Object> map = new HashMap<>();
