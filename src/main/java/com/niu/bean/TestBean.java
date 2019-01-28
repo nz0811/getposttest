@@ -7,6 +7,7 @@ public class TestBean {
 
     private String id;
     private String name;
+	private int a;
 
     public TestBean() {
     }
