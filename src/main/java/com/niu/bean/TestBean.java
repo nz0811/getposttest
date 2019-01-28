@@ -9,6 +9,7 @@ public class TestBean {
     private String name;
 	private int a;
 	private String niu;
+	private String conflict;
 
     public TestBean() {
     }
