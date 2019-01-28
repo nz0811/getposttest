@@ -9,7 +9,8 @@ public class TestBean {
     private String name;
 	private int a;
 	private String niu;
-	private String ideaConflict;
+    private String ideaConflict;
+    private String conflict;
 
     public TestBean() {
     }
